@@ -12,6 +12,6 @@ python_versions:
 dependencies:
   - core
 author: Stackstorm, Inc.
-email: jordan.cockles@gmail
+email: jordan.cockles@gmail.com
 contributors:
   - "John Doe1 <john.doe1@gmail.com>"
