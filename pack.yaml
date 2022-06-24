@@ -1,0 +1,17 @@
+---
+ref: hello_st2
+name: Hello StackStorm
+description: Simple pack containing examples of sensor, rule, and action.
+keywords:
+  - example
+  - test
+version: 1.0.0
+python_versions:
+  - "2"
+  - "3"
+dependencies:
+  - core
+author: Stackstorm, Inc.
+email: jordan.cockles@gmail
+contributors:
+  - "John Doe1 <john.doe1@gmail.com>"
