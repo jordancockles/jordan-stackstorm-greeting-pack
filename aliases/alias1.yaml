@@ -3,5 +3,5 @@ name: greet
 pack: hello_st2
 description: "Greet StackStorm"
 action_ref: "hello_st2.greet"
-format:
+formats:
   - "greet {{greeting}}"
